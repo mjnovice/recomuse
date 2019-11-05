@@ -1,0 +1,3 @@
+[submodule "Collaborative-Filtering-Million-Song-Dataset"]
+	path = Collaborative-Filtering-Million-Song-Dataset
+	url = https://github.com/pastormt/Collaborative-Filtering-Million-Song-Dataset
