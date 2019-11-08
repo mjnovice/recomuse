@@ -5,3 +5,6 @@ __pycache__/
 *.pyc
 EvalDataYear1MSDWebsite/
 MillionSongSubset/
+TasteProfile/
+data/cache/
+data/vq_hist/
