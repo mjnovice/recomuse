@@ -1,1 +1,7 @@
-MillionSongSubset
+.DS_Store/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+EvalDataYear1MSDWebsite/
+MillionSongSubset/
