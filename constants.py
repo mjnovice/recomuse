@@ -14,3 +14,7 @@ class SubsetDataset:
     MSD_ADD_DIR = os.path.join(MSD_DIR, "AdditionalFiles")
 
     MSD_UNIQ_TRACKS_PATH = os.path.join(MSD_ADD_DIR, "subset_unique_tracks.txt")
+
+
+class TasteProfileDataset:
+    TPD_DIR = os.path.join(".", "TasteProfile")
