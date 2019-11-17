@@ -18,3 +18,4 @@ class SubsetDataset:
 
 class TasteProfileDataset:
     TPD_DIR = os.path.join(".", "TasteProfile")
+    TPD_TRAIN_PATH = os.path.join(TPD_DIR, "train_triplets.txt")
