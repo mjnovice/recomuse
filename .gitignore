@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 EvalDataYear1MSDWebsite/
 MillionSongSubset/
+train_triplets.txt
