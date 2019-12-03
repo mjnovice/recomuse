@@ -2,7 +2,7 @@ import os
 
 
 class Dataset:
-    MSD_DIR = os.path.join('.', 'MillionSongDataset')
+    MSD_DIR = os.path.join('/mnt', 'snap')
     MSD_DATA_DIR = os.path.join(MSD_DIR, 'data')
     MSD_ADD_DIR = os.path.join(MSD_DIR, 'AdditionalFiles')
 
@@ -27,4 +27,5 @@ class MSDChallengeDataset:
 
 class TasteProfileDataset:
     TPD_DIR = os.path.join('.', 'TasteProfile')
-    TPD_TRAIN_PATH = os.path.join(TPD_DIR, 'train_triplets.txt')
+    TPD_ORIG_TRAIN_PATH = os.path.join(TPD_DIR, 'train_triplets.txt')
+    TPD_TRAIN_PATH = os.path.join(TPD_DIR, 'reduced_train_triplets.txt')

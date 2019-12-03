@@ -1,0 +1,30 @@
+[I 00:15:42.046 NotebookApp] Using EnvironmentKernelSpecManager...
+[I 00:15:42.046 NotebookApp] Started periodic updates of the kernel list (every 3 minutes).
+[I 00:15:42.054 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 00:15:45.534 NotebookApp] Loading IPython parallel extension
+[I 00:15:45.884 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/envs/pytorch_p36/lib/python3.6/site-packages/jupyterlab
+[I 00:15:45.884 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/envs/pytorch_p36/share/jupyter/lab
+[I 21:45:27.101 NotebookApp] Using EnvironmentKernelSpecManager...
+[I 21:45:27.102 NotebookApp] Started periodic updates of the kernel list (every 3 minutes).
+[I 21:45:27.109 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 21:45:27.618 NotebookApp] Loading IPython parallel extension
+[I 21:45:27.657 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 21:45:27.657 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 21:45:28.155 NotebookApp] [nb_conda] enabled
+[I 21:45:28.160 NotebookApp] Serving notebooks from local directory: /home/ubuntu/recomuse
+[I 21:45:28.160 NotebookApp] 0 active kernels
+[I 21:45:28.160 NotebookApp] The Jupyter Notebook is running at:
+[I 21:45:28.160 NotebookApp] http://localhost:8888/?token=0b84272a60d66488bb1c8f1a9133f290d74a7952fea70e08
+[I 21:45:28.160 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 21:45:28.160 NotebookApp] No web browser found: could not locate runnable browser.
+[C 21:45:28.161 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=0b84272a60d66488bb1c8f1a9133f290d74a7952fea70e08&token=0b84272a60d66488bb1c8f1a9133f290d74a7952fea70e08
+[I 21:45:28.161 NotebookApp] Starting initial scan of virtual environments...
+[I 21:45:32.205 NotebookApp] Found new kernels in environments: conda_pytorch_p36, conda_chainer_p27, conda_caffe2_p27, conda_cntk_p36, conda_tensorflow_p36, conda_caffe_p35, conda_pytorch_p27, conda_theano_p36, conda_anaconda3, conda_python2, conda_amazonei_tensorflow_p27, conda_tensorflow_p27, conda_chainer_p36, conda_python3, conda_theano_p27, conda_amazonei_mxnet_p36, conda_cntk_p27, conda_caffe_p27, conda_amazonei_tensorflow_p36, conda_mxnet_p36, conda_amazonei_mxnet_p27, conda_mxnet_p27
+[W 21:45:32.209 NotebookApp] Clearing invalid/expired login cookie username-localhost-8889
+[W 21:45:32.209 NotebookApp] Clearing invalid/expired login cookie username-localhost-8889
+[I 21:45:32.210 NotebookApp] 302 GET /tree (127.0.0.1) 1.98ms
+[W 21:45:46.325 NotebookApp] 401 POST /login?next=%2Ftree (127.0.0.1) 1.49ms referer=http://localhost:8889/login?next=%2Ftree

@@ -1,0 +1,19 @@
+[I 00:18:28.091 NotebookApp] Using EnvironmentKernelSpecManager...
+[I 00:18:28.092 NotebookApp] Started periodic updates of the kernel list (every 3 minutes).
+[I 00:18:28.299 NotebookApp] Loading IPython parallel extension
+[I 00:18:28.325 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/envs/pytorch_p36/lib/python3.6/site-packages/jupyterlab
+[I 00:18:28.325 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/envs/pytorch_p36/share/jupyter/lab
+[I 00:18:28.510 NotebookApp] [nb_conda] enabled
+[I 00:18:28.512 NotebookApp] Serving notebooks from local directory: /home/ubuntu/recomuse
+[I 00:18:28.512 NotebookApp] 0 active kernels
+[I 00:18:28.512 NotebookApp] The Jupyter Notebook is running at:
+[I 00:18:28.512 NotebookApp] http://localhost:8888/?token=1878d30f3411e958d214d6b4a75c479a622e0858dfb0f4f0
+[I 00:18:28.512 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:18:28.513 NotebookApp] No web browser found: could not locate runnable browser.
+[C 00:18:28.513 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=1878d30f3411e958d214d6b4a75c479a622e0858dfb0f4f0&token=1878d30f3411e958d214d6b4a75c479a622e0858dfb0f4f0
+[I 00:18:28.513 NotebookApp] Starting initial scan of virtual environments...
+[I 00:18:30.800 NotebookApp] Found new kernels in environments: conda_chainer_p36, conda_theano_p27, conda_mxnet_p36, conda_caffe2_p27, conda_caffe_p27, conda_caffe_p35, conda_amazonei_mxnet_p36, conda_chainer_p27, conda_amazonei_tensorflow_p27, conda_tensorflow_p27, conda_pytorch_p36, conda_cntk_p36, conda_tensorflow_p36, conda_anaconda3, conda_pytorch_p27, conda_theano_p36, conda_mxnet_p27, conda_amazonei_mxnet_p27, conda_amazonei_tensorflow_p36, conda_python3, conda_cntk_p27, conda_python2

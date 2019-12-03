@@ -5,8 +5,11 @@ __pycache__/
 *.pyc
 EvalDataYear1MSDWebsite/
 MillionSongSubset/
+<<<<<<< HEAD
 TasteProfile/
 data/cache/
 data/vq_hist/
 .ipynb_checkpoints/
+=======
 train_triplets.txt
+>>>>>>> 7a06fbf764ca0d71e79d3d288dc26246dee37897
